@@ -1,0 +1,23 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>rdpRegInfo wordmark</title>
+<desc>Logo icon of a monitor with a key on its screen, next to the wordmark rdpRegInfo.</desc>
+<g transform="translate(18,14) scale(0.36)">
+<rect x="16" y="16" width="480" height="480" rx="96" fill="#0B1220" stroke="#1E293B" stroke-width="4"/>
+
+<path d="M430 80 A52 52 0 0 1 482 132" fill="none" stroke="#38BDF8" stroke-width="8" stroke-linecap="round" opacity="0.35"/>
+<path d="M430 96 A36 36 0 0 1 466 132" fill="none" stroke="#38BDF8" stroke-width="8" stroke-linecap="round" opacity="0.6"/>
+<path d="M430 112 A20 20 0 0 1 450 132" fill="none" stroke="#38BDF8" stroke-width="8" stroke-linecap="round"/>
+
+<rect x="126" y="150" width="260" height="170" rx="20" fill="#111C30" stroke="#38BDF8" stroke-width="10"/>
+<rect x="234" y="320" width="44" height="26" fill="#38BDF8"/>
+<rect x="190" y="346" width="132" height="18" rx="9" fill="#38BDF8"/>
+
+<circle cx="192" cy="235" r="28" fill="none" stroke="#F8FAFC" stroke-width="12"/>
+<line x1="220" y1="235" x2="302" y2="235" stroke="#F8FAFC" stroke-width="12" stroke-linecap="round"/>
+<line x1="276" y1="235" x2="276" y2="257" stroke="#F8FAFC" stroke-width="12" stroke-linecap="round"/>
+<line x1="298" y1="235" x2="298" y2="253" stroke="#F8FAFC" stroke-width="12" stroke-linecap="round"/>
+</g>
+
+<text x="240" y="102" font-family="Segoe UI, system-ui, Arial, sans-serif" font-size="56" font-weight="600" fill="#0B1220">rdpRegInfo</text>
+<text x="240" y="140" font-family="Segoe UI, system-ui, Arial, sans-serif" font-size="22" font-weight="400" fill="#475569">RDP connection &amp; registry recon</text>
+</svg>
