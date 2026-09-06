@@ -2,17 +2,23 @@
 
 ![Alt text](./logo-wordmark.svg)
 
-A PowerShell script that collects Remote Desktop (RDP) connection history and
-related artifacts for the current user - or, optionally, every local user
-profile on the machine - and merges them into a single, exportable result set.
-
-
 > [!WARNING]
 > *    **Work in Progress (WIP):** This is an experimental project and is actively being updated. Breaking changes may occur, and you should test the code thoroughly before using it in any critical applications.
 >  *   Additionally, this codebase was built with AI assistance, which means you might encounter unintended behavior or inaccuracies.
 > I am actively looking to improve this repository, and your feedback is invaluable. You can help by:
 > *   **Reporting bugs:** If you find a mistake, please open an Issue with a brief description of the problem.
 > *   **Suggesting improvements:** Feel free to submit a Pull Request with fixes or optimizations.
+
+<br>
+
+
+## Description
+A PowerShell script that collects Remote Desktop (RDP) connection history and
+related artifacts for the current user - or, optionally, every local user
+profile on the machine - and merges them into a single, exportable result set.
+
+
+
 
 ## What it collects
 
